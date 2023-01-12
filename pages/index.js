@@ -111,7 +111,7 @@ const Home = () => (
           Elected as the Machine Learning Co-Lead of the Google Developer Student Club at his University.
 
           Created Ansible playbooks to automate the process of setting up a new Wireguard server that has been
-          starred by more than 30 people on GitHub.
+          starred by nearly 40 people on GitHub.
         </BioSection>
       </Section>
 
@@ -121,7 +121,7 @@ const Home = () => (
         </Heading>
         <Paragraph>
           Reading about New Tech Products and Apps, watching MKBHD videos, playing video games,
-          tinkering with electronics and learning new thing and Machine Learning.
+          tinkering with electronics and learning new things and Machine Learning.
         </Paragraph>
       </Section>
 
