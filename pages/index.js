@@ -78,7 +78,7 @@ const Home = () => (
           Rishav Nandi is a Computer Science Sophomore and the Machine Learning Co-Lead
           of the Google Developer Student Club at his University. He is also a Devops and
           System Administration enthusiast and has been working on various projects based
-          on {' '} <Link as={NextLink} href="https://github.com/rishavnandi/boiler_plates" target="_blank" > BASH scripting </Link>, Python, Ansible, Terraform and Docker.
+          on BASH scripting, Python, Ansible, Terraform and Docker.
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works" passHref scroll={false}>
@@ -103,16 +103,14 @@ const Home = () => (
           with aggregate of 80%.
 
           Created his first homelab and started learning about Devops and System Administration.
-          His {' '} <Link as={NextLink} href="https://github.com/rishavnandi/boiler_plates" target="_blank" > BASH scripts </Link>
-          that automate the process of setting up a new server have been starred by more
+          His BASH scripts that automate the process of setting up a new server have been starred by more
           than 50 people on GitHub.
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
           Elected as the Machine Learning Co-Lead of the Google Developer Student Club at his University.
 
-          Created {' '} <Link as={NextLink} href="https://github.com/rishavnandi/ansible_selfhost_vpn" target="_blank" > Ansible playbooks </Link>
-          to automate the process of setting up a new Wireguard server that has been
+          Created Ansible playbooks to automate the process of setting up a new Wireguard server that has been
           starred by nearly 40 people on GitHub.
         </BioSection>
       </Section>
