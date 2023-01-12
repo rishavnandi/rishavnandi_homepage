@@ -103,14 +103,16 @@ const Home = () => (
           with aggregate of 80%.
 
           Created his first homelab and started learning about Devops and System Administration.
-          His BASH scripts that automate the process of setting up a new server have been starred by more
+          His <Link as={NextLink} href="https://github.com/rishavnandi/boiler_plates" passHref target="_blank" > BASH scripts </Link>
+          that automate the process of setting up a new server have been starred by more
           than 50 people on GitHub.
         </BioSection>
         <BioSection>
           <BioYear>2022</BioYear>
           Elected as the Machine Learning Co-Lead of the Google Developer Student Club at his University.
 
-          Created Ansible playbooks to automate the process of setting up a new Wireguard server that has been
+          Created <Link as={NextLink} href="https://github.com/rishavnandi/ansible_selfhost_vpn" passHref target="_blank" > Ansible playbooks </Link>
+          to automate the process of setting up a new Wireguard server that has been
           starred by nearly 40 people on GitHub.
         </BioSection>
       </Section>
